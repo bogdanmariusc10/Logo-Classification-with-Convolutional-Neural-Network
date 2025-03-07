@@ -95,15 +95,6 @@ The `NeuralNet` class contains:
 
 ---
 
-## Future Improvements
-
-- A cleaner and balanced training dataset.
-- Increase training epochs on a better GPU.
-- Use data augmentation to improve generalization.
-- Improve logo retrieval using additional APIs.
-
----
-
 ## Conclusion and Future Improvements
 
 Currently, the project has not yet achieved successful logo classification, as additional training is necessary.
