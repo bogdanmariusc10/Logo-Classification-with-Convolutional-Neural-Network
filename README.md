@@ -1,4 +1,4 @@
-# Logo Classification with a Convolutional Neural Network
+# Logo Classification with Convolutional Neural Network
 
 This project focuses on classifying logos into 10 categories based on their brand's area of activation using a Convolutional Neural Network (CNN) built in PyTorch. The model is trained on a Kaggle dataset and predicts logos fetched from the Clearbit Logo API or website favicons. Initially, I intended to classify the logos based on their style - such as word-only, modern, vintage, and cartoon - but I couldn't find a sufficiently large dataset for my model to learn from.
 
